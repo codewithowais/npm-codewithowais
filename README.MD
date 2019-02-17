@@ -1,14 +1,13 @@
-# [ahsanayaz](https://www.npmjs.com/package/ahsanayaz)
+# [kamranqadri](https://www.npmjs.com/package/kamranqadri)
 
 <center><img width="550" style="margin-bottom: 20px;" src="img/card.png" /></center>
 
-Having your own npm package is fun.
+Excited publish my first npm package.
 
-Created a [business card](https://www.npmjs.com/package/ahsanayaz) highly inspired by [bitandbang](https://twitter.com/bitandbang)'s idea he [shared on twitter](https://twitter.com/bitandbang/status/1075473070368919552).
-
-Usage of `colorette` inspired by [mhartington](https://github.com/mhartington) because of zero dependencies.
+Created a [business card](https://www.npmjs.com/package/kamranqadri) highly inspired by [ahsanayaz](https://twitter.com/Ahsan_ayz)'s idea he [shared on twitter](https://twitter.com/Ahsan_ayz/status/1076206995965992965).
 
 Run below from your terminal.
+
 ```bash
-npx ahsanayaz
+npx kamranqadri
 ```

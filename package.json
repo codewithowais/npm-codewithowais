@@ -1,5 +1,5 @@
 {
-  "name": "ahsanayaz",
+  "name": "kamranqadri",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -7,21 +7,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "ahsanayaz": "./index.js"
+    "kamranqadri": "./index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahsanayaz/npm-ahsanayaz.git"
+    "url": "git+https://github.com/ahsanayaz/npm-kamranqadri.git"
   },
   "keywords": [
-    "ahsanayaz"
+    "kamranqadri",
+    "businesscard"
   ],
-  "author": "Ahsan Ayaz <ahsan.ubitian@gmail.com>",
+  "author": "Kamran Qadri <smkamranqadri@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ahsanayaz/npm-ahsanayaz/issues"
+    "url": "https://github.com/smkamranqadri/npm-kamranqadri/issues"
   },
-  "homepage": "https://github.com/ahsanayaz/npm-ahsanayaz#readme",
+  "homepage": "https://github.com/smkamranqadri/npm-kamranqadri#readme",
   "dependencies": {
     "colorette": "^1.0.7"
   }
