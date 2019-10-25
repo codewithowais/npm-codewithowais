@@ -21,6 +21,6 @@ const twittering = `${white(bold('    Twitter:'))}  ${twitter}`;
 const githubing = `${white(bold('     GitHub:'))}  ${github}`;
 const carding = `${white(bold('       Card:'))}  ${npx}`;
 
-let output = `${newline} ${newline} ${heading} ${newline} ${communiting} ${newline} ${newline} ${working} ${newline} ${twittering} ${newline} ${linkedining} ${newline} ${githubing} ${newline}  ${newline} ${carding} ${newline} ${newline}`;
+let output = `${newline} ${newline} ${heading} ${newline} ${newline} ${newline} ${working} ${newline} ${twittering} ${newline} ${linkedining} ${newline} ${githubing} ${newline}  ${newline} ${carding} ${newline} ${newline}`;
 
 console.log(output);
