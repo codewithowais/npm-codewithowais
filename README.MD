@@ -1,4 +1,4 @@
-# [kamranqadri](https://www.npmjs.com/package/kamranqadri)
+# [codewithowais](https://www.npmjs.com/package/codewithowais)
 
 <center><img width="550" style="margin-bottom: 20px;" src="img/card.png" /></center>
 
@@ -9,5 +9,5 @@ Created a [business card](https://www.npmjs.com/package/kamranqadri) highly insp
 Run below from your terminal.
 
 ```bash
-npx kamranqadri
+npx codewithowais
 ```
